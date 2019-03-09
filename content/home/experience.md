@@ -34,4 +34,20 @@ date_format = "January 2006"
   * Cartography
   """
 
+[[experience]]
+  title = "Bachelor of Science Geoinformatik"
+  company = "University Münster"
+  company_url = "https://www.uni-muenster.de/de/"
+  location = "Münster, Germany"
+  date_start = "2017-01-01"
+  date_end = "2017-01-01"
+  description = """
+  Responsibilities include:
+
+  * Computer Science
+  * Mathematics
+  * Analytics
+  * Cartography
+  """
+  
 +++
