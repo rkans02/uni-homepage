@@ -27,7 +27,7 @@ date_format = "January 2006"
   date_end = "2018-10-15"
   description = """
   Responsibilities include:
-  """
+
   * Computer Science
   * Mathematics
   * Analytics
@@ -42,5 +42,5 @@ date_format = "January 2006"
   date_start = "2018-10-01"
   date_end = ""
   description = """
-  
+  """
 +++
