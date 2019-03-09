@@ -23,11 +23,11 @@ date_format = "January 2006"
   company = "University Münster"
   company_url = "https://www.uni-muenster.de/de/"
   location = "Münster, Germany"
-  date_start = "2014"
+  date_start = "01.10.2014"
   date_end = "15.10.2018"
   description = """
   Responsibilities include:
-  
+  """
   * Computer Science
   * Mathematics
   * Analytics
@@ -43,7 +43,7 @@ date_format = "January 2006"
   date_end = "15.10.2018"
   description = """
   Responsibilities include:
-  
+  """
   * Server hosting
   * Website maintenance
   * IT-Support
@@ -57,6 +57,5 @@ date_format = "January 2006"
   date_start = "2018-10-01"
   date_end = ""
   description = """
-  """
 
 +++
