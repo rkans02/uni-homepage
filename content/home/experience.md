@@ -19,4 +19,21 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[experience]]
+  title = "Bachelor of Science Geoinformatik"
+  company = "University Münster"
+  company_url = "https://www.uni-muenster.de/de/"
+  location = "Münster, Germany"
+  date_start = "01.10.2014"
+  date_end = "15.10.2018"
+  description = """
+  Responsibilities include:
+  """
+  * Computer Science
+  * Mathematics
+  * Analytics
+  * Cartography
+  """
+  
+
 +++
