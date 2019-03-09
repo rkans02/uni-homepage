@@ -33,6 +33,22 @@ date_format = "January 2006"
   * Analytics
   * Cartography
   """
+  
+  [[experience]]
+  title = "Master of Science Geoinformatics"
+  company = "University Münster"
+  company_url = "https://www.uni-muenster.de/de/"
+  location = "Münster, Germany"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = """
+  
+  Responsibilities include:
+
+  * Website maintanance
+  * Server hosting
+  * IT-Support
+  """
 
 [[experience]]
   title = "Master of Science Geoinformatics"
