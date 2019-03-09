@@ -47,6 +47,7 @@ date_format = "January 2006"
   * Server hosting
   * Website maintenance
   * IT-Support
+  """
 
 [[experience]]
   title = "Master of Science Geoinformatics"
@@ -56,5 +57,6 @@ date_format = "January 2006"
   date_start = "2018-10-01"
   date_end = ""
   description = """
+  """
 
 +++
