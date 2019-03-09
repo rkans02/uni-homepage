@@ -23,11 +23,11 @@ date_format = "January 2006"
   company = "University Münster"
   company_url = "https://www.uni-muenster.de/de/"
   location = "Münster, Germany"
-  date_start = "2017-01-01"
-  date_end = "2017-01-01"
+  date_start = "2014-10-01"
+  date_end = "2018-10-15"
   description = """
   Responsibilities include:
-
+  """
   * Computer Science
   * Mathematics
   * Analytics
@@ -35,19 +35,12 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Bachelor of Science Geoinformatik"
+  title = "Master of Science Geoinformatics"
   company = "University Münster"
   company_url = "https://www.uni-muenster.de/de/"
   location = "Münster, Germany"
-  date_start = "2017-01-01"
-  date_end = "2017-01-01"
+  date_start = "2018-10-01"
+  date_end = ""
   description = """
-  Responsibilities include:
-
-  * Computer Science
-  * Mathematics
-  * Analytics
-  * Cartography
-  """
   
 +++
