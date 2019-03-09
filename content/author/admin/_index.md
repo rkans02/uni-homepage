@@ -25,7 +25,7 @@ email = ""
 interests = [
   "Artificial Intelligence",
   "Computer Vision",
-  "Autonomou cars"
+  "Autonomous cars"
 ]
 
 # Organizational groups that you belong to (for People widget)
